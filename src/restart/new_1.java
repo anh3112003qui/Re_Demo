@@ -86,14 +86,17 @@ public class new_1 {
 //	}
 //}
 
-		System.out.println("nhap chuoi : ");
-		String name = new Scanner(System.in).nextLine();
-		String reverse = "";
-		for ( int i = name.length() - 1; i >= 0; i-- ) {
-			reverse += name.charAt(i);
-		}
-		System.out.println("chuoi dao nguoc: " + reverse);
-		
-	}
+//		System.out.println("nhap chuoi : ");
+//		String name = new Scanner(System.in).nextLine();
+//		String reverse = "";
+//		for ( int i = name.length() - 1; i >= 0; i-- ) {
+//			reverse += name.charAt(i);
+//		}
+//		System.out.println("chuoi dao nguoc: " + reverse);
+//		
+//	}
 
+//}
+		System.out.println(" lê trần anh quí");
+	}
 }
